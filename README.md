@@ -84,3 +84,7 @@ skills/handoff/SKILL.md    # the skill — single source of truth
 codex/prompts/handoff.md   # thin Codex slash-command pointer
 install.sh                 # symlinks into ~/.claude and ~/.codex
 ```
+
+## License
+
+Licensed under the [MIT License](LICENSE).

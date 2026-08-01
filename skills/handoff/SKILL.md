@@ -7,6 +7,7 @@ description: >-
   "handoff", is hitting usage limits and needs to switch tools, wants to park
   work for another agent, or starts a session asking to continue work another
   agent left behind.
+license: MIT
 ---
 
 # Agent Handoff Protocol
